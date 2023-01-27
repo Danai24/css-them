@@ -1,0 +1,13 @@
+:root{
+  --color-brand: navy;
+  --color-light: white:
+  --color-dark: black;
+}
+*{magin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+body{
+background-color: var(--color-light);
+  color: var(--color-dark);
+}
